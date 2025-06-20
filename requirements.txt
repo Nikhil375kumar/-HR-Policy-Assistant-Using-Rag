@@ -1,0 +1,13 @@
+streamlit
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+huggingface-hub
+pdfplumber
+python-dotenv
+PyPDF2
+unstructured
+tqdm
+langchain-community
+langchain-huggingface
